@@ -1,0 +1,196 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto';
+	color: black;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	
+}
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1360px;
+	
+	margin: 0 auto;
+	
+
+}
+
+
+body{
+	background: url('../img/header-bg.jpg') no-repeat center top;
+}
+.header{
+	margin-bottom: 574px;
+	padding-top: 21px;
+	padding-bottom: 155px;
+
+}
+header a{
+	color: #FFFFFF;
+
+}
+.logo{
+	margin-right: 65px;
+}
+.menu{
+	display: flex;
+}
+.menu li a {
+	
+	text-decoration: none;
+	font-size: 18px;
+
+
+}
+.menu li {
+	margin-right:36px ;
+	
+}
+.nav{
+	display: flex;
+	align-items: center;
+
+}
+.offer{
+	margin-top: 185px;
+	margin-left: 821px;
+		color: #DDE8F0;
+		width: 468px;
+		
+
+
+
+}
+.offer h1 {
+	font-size: 72px;
+	margin-bottom:16px;
+
+
+
+}
+.offer center {
+	font-size: 24px;
+
+}
+
+section{
+	
+	background: url('../img/background.jpg') no-repeat center top;
+	
+}
+.container{
+	color: #203349;
+}
+.pc{
+	margin-right: 401px;
+	margin-left: 401px;
+}
+h2{
+	font-size: 30px;
+	color: #051036;
+	position: absolute;
+	width: 335px;
+	height: 91px;
+	left: 793px;
+	top: 1159px;
+}
+center{
+	margin-top: 20px;
+}
+.case{
+	position: absolute;
+	left: 673px;
+	top: 1478px;
+
+}
+
+.cpu{
+	position: absolute;
+	left: 898px;
+	top: 1273px;
+
+}
+
+.gpu{
+	position: absolute;
+	left: 1153px;
+	top: 1482px;
+}
+
+.cpufan{
+	position: absolute;
+	left: 913px;
+	top: 1677px;
+
+}
+
+.rom{
+	position: absolute;
+	left: 1060px;
+	top: 1357px;
+
+}
+
+.power{
+	position: absolute;
+	left: 1060px;
+	top: 1613px;
+}
+
+.ssd{
+	position: absolute;
+	left: 756px;
+	top: 1351px;
+}
+
+.matherboard{
+	position: absolute;
+	left: 750px;
+	top: 1615px;
+
+}
+
+.completing{
+	position: absolute;
+	top: 1418px;
+	left: 871px
+
+}
+
+
+
+.about h3{
+	color: #203349;
+	font-size: 40px;
+	margin-bottom: 80px;
+}
+.description {
+	padding-top: 847px;
+	font-size: 20px;
+	margin-right: 269px;
+	margin-left: 269px;
+	
+}
+
+.pluse {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 140px;
+}
+.minus {
+	display: flex;
+	justify-content: space-between;
+}
+p {
+	margin-top: 170px;
+}
